@@ -2,5 +2,5 @@
     "version":  "1.0.7",
     "url":  "https://github.com/My-RGH-Soft/Dong-s-Hood/releases/download/v1.0.7/DongsHood.exe",
     "sha256":  "2d04781621431f460588ca542691d0922b359fcccab1241424f01328f772f0cf",
-    "notes":  "Detects BadUpdate / BadAvatar consoles automatically and blocks writes to flash on them. Adds the xbGuard theme, Advanced mode for the raw command bar, and the .ini editor. Reports the real board and processor instead of what the console claims."
+    "notes":  "Detects BadUpdate / BadAvatar consoles automatically and blocks writes to flash on them. Adds the xbGuard theme, Advanced mode for the raw command bar. Reports the real board and processor instead of what the console claims."
 }
